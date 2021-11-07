@@ -1,0 +1,9 @@
+README: 
+Para la compilacion del "Juego de la Vida" debemos de seguir los siguientes pasos.
+    1. Posicionarnos en la carpeta que contiene los archivos del Juego
+    2. Una vez ahi, desplegamos la terminal y existen dos formas de compilarlos, mediante las siguientes lineas de comando.
+        a) make
+		NOTA: El nombre del ejecutable que queda es "main"
+
+        b) gcc main.c game.c utils.c -o main -Wall
+		NOTA: El nombre del ejecutable que queda es "main"
