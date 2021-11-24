@@ -3,7 +3,7 @@ project(progra1_main)
 
 set(CMAKE_CXX_STANDARD 14)
 
-include_directories(itba-progra1-tp12-main)
+include_directories(TP12)
 include_directories(TP10)
 include_directories(TP7/ej5)
 include_directories("TP7/make test")
@@ -19,9 +19,9 @@ add_executable(progra1_main
         Funciones/toLower.c
         Funciones/toUpper.c
         Funciones/transpuesta.c
-        itba-progra1-tp12-main/main.c
-        itba-progra1-tp12-main/pin_handler.c
-        itba-progra1-tp12-main/pin_handler.h
+        TP12/main.c
+        TP12/pin_handler.c
+        TP12/pin_handler.h
         "Parciales/1° Parcial/2015/ej1"
         "Parciales/1° Parcial/2015/ej1.c"
         "Parciales/1° Parcial/2015/ej2"

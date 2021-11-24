@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/agussolari/Escritorio/progra1-main/Parciales/2° Parcial/2021 2C/main.c
+stdio.h
+-
+stdlib.h
+-
+

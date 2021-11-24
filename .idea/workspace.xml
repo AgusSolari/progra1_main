@@ -4,15 +4,76 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
-    <generated />
+    <generated>
+      <config projectName="progra1_main" targetName="progra1_main" />
+    </generated>
   </component>
-  <component name="CMakeSettings">
+  <component name="CMakeSettings" AUTO_RELOAD="true">
     <configurations>
       <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11a4de41-70ee-48cc-8e44-b1acd176b7a4" name="Changes" comment="" />
+    <list default="true" id="11a4de41-70ee-48cc-8e44-b1acd176b7a4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Parciales/2° Parcial/.idea/2° Parcial.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parciales/2° Parcial/2015 1C/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parciales/2° Parcial/2015 1C/.idea/2015 1C.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parciales/2° Parcial/2015 1C/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parciales/2° Parcial/2015 1C/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parciales/2° Parcial/2015 1C/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parciales/2° Parcial/2015 1C/ej1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parciales/2° Parcial/2015 1C/ej2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parciales/2° Parcial/2015 1C/ej3.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parciales/2° Parcial/2015 1C/ej4.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parciales/2° Parcial/2015 1C/ej5.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parciales/2° Parcial/2015 1C/ej6.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parciales/2° Parcial/2019 2C/.idea/2019 2C.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parciales/2° Parcial/2019 2C/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parciales/2° Parcial/2019 2C/ej1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parciales/2° Parcial/2019 2C/ej2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parciales/2° Parcial/2019 2C/ej3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parciales/2° Parcial/2019 2C/ej3.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parciales/2° Parcial/2019 2C/ej4.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parciales/2° Parcial/2019 2C/ej5.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parciales/2° Parcial/2019 2C/ej6.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parciales/2° Parcial/2020 1C/.idea/2020 1C.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parciales/2° Parcial/2020 1C/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parciales/2° Parcial/2020 1C/ej1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parciales/2° Parcial/2020 1C/ej1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parciales/2° Parcial/2020 1C/ej2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parciales/2° Parcial/2020 1C/ej3.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parciales/2° Parcial/2020 1C/makefile.mk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parciales/2° Parcial/2020 2C/.idea/2020 2C.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parciales/2° Parcial/2020 2C/2020 2C 2Parcial/ej1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parciales/2° Parcial/2020 2C/2020 2C 2Parcial/ej2.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parciales/2° Parcial/2020 2C/2020 2C 2Parcial/ej3.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parciales/2° Parcial/2020 2C/2020 2C 2Parcial/ej4.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parciales/2° Parcial/2020 2C/2020 2C 2Parcial/ej5.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parciales/2° Parcial/2020 2C/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parciales/2° Parcial/2021 1C/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parciales/2° Parcial/2021 1C/.idea/2021 1C.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parciales/2° Parcial/2021 1C/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parciales/2° Parcial/2021 1C/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parciales/2° Parcial/2021 1C/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parciales/2° Parcial/2021 1C/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parciales/2° Parcial/2021 1C/ej1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parciales/2° Parcial/2021 1C/ej2.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parciales/2° Parcial/2021 1C/ej3.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parciales/2° Parcial/2021 1C/ej4.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parciales/2° Parcial/2021 1C/ej5.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parciales/2° Parcial/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP12/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP12/pin_handler.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP13/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP13/ej1.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP5/ej8.c" beforeDir="false" afterPath="$PROJECT_DIR$/TP5/ej8.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itba-progra1-tp12-main/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/TP12/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itba-progra1-tp12-main/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/itba-progra1-tp12-main/pin_handler.c" beforeDir="false" afterPath="$PROJECT_DIR$/TP12/pin_handler.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itba-progra1-tp12-main/pin_handler.h" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,10 +83,23 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="bdks992m" />
   </component>
   <component name="ProjectId" id="20U6SBj0ppZiWpGTrBaxch1lNJG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -46,12 +120,17 @@
     <property name="settings.editor.selected.configurable" value="CPPToolchains" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="progra1_main" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="progra1_main" TARGET_NAME="progra1_main" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="progra1_main" RUN_TARGET_NAME="progra1_main">
+    <configuration name="progra1_main" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="progra1_main" RUN_TARGET_NAME="progra1_main" EXPLICIT_BUILD_TARGET_NAME="all">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -71,11 +150,27 @@
       <option name="presentableId" value="Default" />
       <updated>1636086816515</updated>
       <workItem from="1636086821166" duration="1168000" />
-      <workItem from="1636253831164" duration="347000" />
+      <workItem from="1636253831164" duration="429000" />
+      <workItem from="1636403671730" duration="123000" />
+      <workItem from="1636662056320" duration="20000" />
+      <workItem from="1636662084843" duration="2553000" />
+      <workItem from="1637143431120" duration="225000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
