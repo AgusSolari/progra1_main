@@ -1,1 +1,0 @@
-/usr/bin/cc -g CMakeFiles/2021_2C.dir/main.c.o -o 2021_2C 

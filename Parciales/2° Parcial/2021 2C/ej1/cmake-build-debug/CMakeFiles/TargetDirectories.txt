@@ -1,3 +1,0 @@
-/home/agussolari/Escritorio/progra1-main/Parciales/2° Parcial/2021 2C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/agussolari/Escritorio/progra1-main/Parciales/2° Parcial/2021 2C/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/agussolari/Escritorio/progra1-main/Parciales/2° Parcial/2021 2C/cmake-build-debug/CMakeFiles/2021_2C.dir
